@@ -1,2 +1,2 @@
-module sample
+module github.com/lucmq/sample
 
